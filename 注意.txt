@@ -1,0 +1,3 @@
+注意上传完SDK源码之后
+
+检查<GizAepWifiSDK_cocoapod> 和 <GizWifiSDK_cocoapod>两份源码的log日志有没有更新, 有运行脚本，但是 GizAepWifiSDK.framework 和 GizWifiSDK.framework 库 没被成功复制到源码的情况出现
